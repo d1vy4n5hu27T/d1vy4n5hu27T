@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Divyanshu Kumar 👋
 
-<!--
-**d1vy4n5hu27T/d1vy4n5hu27T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Enthusiast | 🛡️ VAPT Learner & Bug Bounty Hunter
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science & Engineering Student
+- 🔎 Interested in Web & API Security
+- 🛡️ Learning VAPT and Penetration Testing
+- 🐍 Learning Python for Cybersecurity
+- 💻 Practicing Linux, Git & Security Tools
+- ✍️ Writing cybersecurity content on Medium
+
+## 🛠️ Skills
+
+### Cybersecurity
+- VAPT
+- Web Application Security
+- API Security
+- Bug Bounty
+- Android Security
+- OWASP
+- Reconnaissance
+
+### Tools
+- Burp Suite
+- Metasploit
+- Nmap
+- Wireshark
+- Nessus
+- Linux
+
+### Programming
+- Python
+- Java
+
+## 📚 Currently Learning
+
+- API Security
+- Android Security
+- Advanced Reconnaissance
+- Bug Bounty Methodology
+
+## 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/divyanshu-kumar-3003b6390?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+---
+
+⭐ Always learning. Always testing. Always improving.
