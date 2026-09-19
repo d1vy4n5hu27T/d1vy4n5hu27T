@@ -40,11 +40,8 @@
 - Android Security
 - Advanced Reconnaissance
 - Bug Bounty Methodology
+- Learning VAPT
 
-## 🔗 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/divyanshu-kumar-3003b6390?utm_source=share_via&utm_content=profile&utm_medium=member_android
-
----
 
 ⭐ Always learning. Always testing. Always improving.
