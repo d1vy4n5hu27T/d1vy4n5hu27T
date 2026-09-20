@@ -33,7 +33,7 @@
 
 ---
 
-# 👋 Hi, I'm Divyanshu Kumar
+# 👋 Hi, I'm Divyanshu Chaudhary
 
 ## 🧑‍💻 About Me
 
