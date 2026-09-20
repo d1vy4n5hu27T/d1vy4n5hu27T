@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00BFFF,100:00C896&height=220&section=header&text=Divyanshu%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00BFFF,100:00C896&height=220&section=header&text=Divyanshu%20Chaudhary&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
 
@@ -695,10 +695,6 @@ I share practical cybersecurity notes, tutorials and my learning journey through
 `🔐 Cybersecurity Tools`
 
 </div>
-
-### 📰 Medium
-
-**[https://medium.com/@d1vy4n5hu27t]**
 
 ---
 
