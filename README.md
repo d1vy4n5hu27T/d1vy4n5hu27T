@@ -2,7 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00BFFF,100:00C896&height=220&section=header&text=Divyanshu%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=850&lines=🔐+Cybersecurity+Enthusiast;🛡️+VAPT+Learner;🐞+Bug+Bounty+Hunter;🌐+Web+Security+Researcher;🔌+API+Security+Learner;📱+Android+Security+Enthusiast;🐍+Python+Security+Automation;⚔️+Offensive+Security+Learner"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=850&lines=Cybersecurity+Enthusiast;VAPT+Learner;Bug+Bounty+Hunter;Web+Security+Researcher;API+Security+Learner;Android+Security+Enthusiast;Python+Security+Automation;Offensive+Security+Learner" alt="Typing SVG"/>
+
+</div>
 
 <br>
 
@@ -628,9 +632,13 @@ Small Python scripts and utilities created while learning:
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=d1vy4n5hu27T&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img src="https://img.shields.io/github/followers/d1vy4n5hu27T?style=for-the-badge&label=GitHub%20Followers&color=00BFFF"/>
 
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1vy4n5hu27T&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://img.shields.io/github/stars/d1vy4n5hu27T?style=for-the-badge&label=GitHub%20Stars&color=00C896"/>
+
+<img src="https://img.shields.io/github/repos/d1vy4n5hu27T?style=for-the-badge&label=Repositories&color=6A5ACD"/>
+
+<img src="https://img.shields.io/github/last-commit/d1vy4n5hu27T/d1vy4n5hu27T?style=for-the-badge&label=Profile%20README&color=FF6B6B"/>
 
 </div>
 
@@ -646,25 +654,19 @@ Small Python scripts and utilities created while learning:
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=d1vy4n5hu27T&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
+<img src="https://img.shields.io/github/followers/d1vy4n5hu27T?style=for-the-badge&label=Followers&color=00BFFF"/>
+
+<img src="https://img.shields.io/github/stars/d1vy4n5hu27T?style=for-the-badge&label=Stars&color=00C896"/>
+
+<img src="https://img.shields.io/github/commit-activity/y/d1vy4n5hu27T?style=for-the-badge&label=Commit%20Activity&color=6A5ACD"/>
 
 </div>
-
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=d1vy4n5hu27T&bg_color=0d1117&color=00BFFF&line=6A5ACD&point=00C896&area=true&hide_border=true"/>
-
-</div>
-
----
 
 # ✍️ Cybersecurity Writing
 
