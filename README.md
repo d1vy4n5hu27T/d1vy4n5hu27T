@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:00BFFF,100:00C896&height=220&section=header&text=Divyanshu%20Chaudhary&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<!-- <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=850&lines=Cybersecurity+Enthusiast;VAPT+Learner;Bug+Bounty+Hunter;Web+Security+Researcher;API+Security+Learner;Android+Security+Enthusiast;Python+Security+Automation;Offensive+Security+Learner" alt="Typing SVG"/>
-
-</div> -->
-
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=d1vy4n5hu27T&label=PROFILE+VIEWS&color=6A5ACD&style=for-the-badge"/>
