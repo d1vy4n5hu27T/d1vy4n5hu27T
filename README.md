@@ -580,31 +580,6 @@ Small Python scripts and utilities created while learning:
              🔁 Repeat
 ```
 
----
-
-# 🎯 2026 Goals
-
-<div align="center">
-
-| Status | Goal                                        |
-| :----: | :------------------------------------------ |
-|    ⬜   | Strengthen Web Application Security         |
-|    ⬜   | Learn API Security deeply                   |
-|    ⬜   | Practice Android Pentesting                 |
-|    ⬜   | Improve Python for Cybersecurity            |
-|    ⬜   | Build practical VAPT projects               |
-|    ⬜   | Practice responsible bug hunting            |
-|    ⬜   | Write professional vulnerability reports    |
-|    ⬜   | Complete more CTFs and security labs        |
-|    ⬜   | Contribute to open-source security projects |
-|    ⬜   | Build a strong cybersecurity portfolio      |
-|    ⬜   | Build useful security automation tools      |
-|    ⬜   | Publish more cybersecurity content          |
-
-</div>
-
----
-
 # 🧩 CTF & Practice Platforms
 
 <div align="center">
