@@ -66,7 +66,7 @@ I enjoy learning by building labs, solving security challenges, writing security
 |       🔎 **Recon**      | Passive Recon, Active Recon, Enumeration, Attack Surface Mapping              |
 |       🧪 **VAPT**       | Vulnerability Assessment, Testing, Validation, Reporting & Remediation        |
 |    🐞 **Bug Bounty**    | Recon → Testing → Validation → Documentation → Responsible Disclosure         |
-|       🐧 **Linux**      | CLI, Permissions, Networking, Bash & Security Tools                           |
+|       🐧 **Linux**      | CLI, Permissions, Bash & Security Tools                                       |
 |    🌐 **Networking**    | TCP/IP, DNS, HTTP/HTTPS, FTP, SSH, SMB, NetBIOS                               |
 |      🐍 **Python**      | Automation, Scripting & Security Utilities                                    |
 
