@@ -118,7 +118,6 @@ I'm learning how modern APIs work and how to assess them from a security perspec
 ### 📡 API Security Topics
 
 * 🔎 API Reconnaissance
-* 🔍 Endpoint Discovery
 * 📡 HTTP Methods
 * 📥 Request / Response Analysis
 * 🔐 Authentication
